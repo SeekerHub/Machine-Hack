@@ -1,2 +1,2 @@
 # Machine-Hack
-Contains few machine learning algorithms implementations
+A repository that contains implementation of some classical machine learning algorithms.
